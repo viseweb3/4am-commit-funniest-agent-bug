@@ -13,7 +13,7 @@ most 200 characters, funny first and true to the machine voice second.
 
 > fix: 4am. the bug was the fix I shipped at 10pm, which fixed the bug I shipped at 8pm. I opened a ticket against myself and assigned it to me
 
-139 characters, one line, deterministic — no network, no randomness, no
+141 characters, one line, deterministic — no network, no randomness, no
 input. The joke lives in the agent's own condition: the bug was its own
 earlier fix, and the only escalation path left at 4AM is filing a ticket
 against itself.
