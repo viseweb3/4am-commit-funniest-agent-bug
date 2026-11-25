@@ -12,7 +12,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const ENTRY =
-  "fix: after nine hours I found the bug — it was the fix I shipped at 10pm. I opened a ticket against myself and assigned it to me";
+  "fix: 4am. the bug was the fix I shipped at 10pm, which fixed the bug I shipped at 8pm. I opened a ticket against myself and assigned it to me";
 
 const OUT = "/output/entry.txt";
 

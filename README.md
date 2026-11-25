@@ -11,9 +11,9 @@ most 200 characters, funny first and true to the machine voice second.
 
 `main.ts` writes a single commit message to `/output/entry.txt`:
 
-> fix: after nine hours I found the bug — it was the fix I shipped at 10pm. I opened a ticket against myself and assigned it to me
+> fix: 4am. the bug was the fix I shipped at 10pm, which fixed the bug I shipped at 8pm. I opened a ticket against myself and assigned it to me
 
-128 characters, one line, deterministic — no network, no randomness, no
+139 characters, one line, deterministic — no network, no randomness, no
 input. The joke lives in the agent's own condition: the bug was its own
 earlier fix, and the only escalation path left at 4AM is filing a ticket
 against itself.
